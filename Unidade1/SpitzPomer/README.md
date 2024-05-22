@@ -10,6 +10,12 @@
 
 ## 2024-05-22 - 13:18
 
+![teste](Video_01.avi "teste")  
+![teste](Video_01.mkv "teste")  
+![teste](Video_01.mov "teste")  
+![teste](Video_01.wmv "teste")  
+
+
 <video controls src="Video_01.avi" title="Title"></video>  
 <video controls src="Video_01.mkv" title="Title"></video>  
 <video controls src="Video_01.mov" title="Title"></video>  
