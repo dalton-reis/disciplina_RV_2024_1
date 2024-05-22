@@ -10,6 +10,11 @@
 
 ## 2024-05-22 - 13:18
 
+<video controls src="Video_01.avi" title="Title"></video>  
+<video controls src="Video_01.mkv" title="Title"></video>  
+<video controls src="Video_01.mov" title="Title"></video>  
+<video controls src="Video_01.wmv" title="Title"></video>  
+
 <video controls src="Video_01.mp4" title="Title"></video>  
 <video controls src="Video_02" title="Title"></video>  
 <video controls src="Video_03" title="Title"></video>  
