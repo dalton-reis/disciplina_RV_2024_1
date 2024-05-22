@@ -10,19 +10,8 @@
 
 ## 2024-05-22 - 13:18
 
-![teste](Video_01.avi "teste")  
-![teste](Video_01.mkv "teste")  
 ![teste](Video_01.mov "teste")  
-![teste](Video_01.wmv "teste")  
-
-
-<video controls src="Video_01.avi" title="Title"></video>  
-<video controls src="Video_01.mkv" title="Title"></video>  
-<video controls src="Video_01.mov" title="Title"></video>  
-<video controls src="Video_01.wmv" title="Title"></video>  
-
-<video controls src="Video_01.mp4" title="Title"></video>  
-<video controls src="Video_02" title="Title"></video>  
-<video controls src="Video_03" title="Title"></video>  
-<video controls src="Video_04" title="Title"></video>  
-<video controls src="Video_05" title="Title"></video>  
+![teste](Video_02.mov "teste")  
+![teste](Video_03.mov "teste")  
+![teste](Video_04.mov "teste")  
+![teste](Video_05.mov "teste")  
