@@ -184,9 +184,6 @@ Para se pensar ...
   
 [Exemplo usando o Apple Vision na Medicina](./RealidadeVirtual_imgs/RM_AppleVisionPro_Medicina.mp4 "RM_AppleVisionPro_F1") ( 📢 ).  
 <https://ocp.news/cotidiano/medico-de-jaragua-do-sul-com-1o-uso-de-applevisionpro-em-cirurgia-no-brasil>  
-<video controls src="RealidadeVirtual_imgs/RM_AppleVisionPro_Medicina.mp4" title="Title"></video>
-
-<video src="RealidadeVirtual_imgs/RM_AppleVisionPro_F1.mp4" controls title="Title"></video>  
 
 ##### RM - Exemplos
 
